@@ -24,6 +24,6 @@
  * Se precisar de ajuda, busque alguém para te auxiliar.
  
  =======================
- * Para abrir o documento, faça o download no mesmo e abra no word/google docs ou qualquer outro leitor de .docx
+ * Para abrir o documento, faça o download do mesmo e abra no word/google docs ou qualquer outro leitor de .docx
    
  
