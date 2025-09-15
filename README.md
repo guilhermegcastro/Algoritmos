@@ -3,6 +3,9 @@
   <img src="https://media.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif" width="400px" />
 </p>
 
+<h3 style="display: flex; align-items: center;">
+  < algoritmo/>
+</h3>
 <h1algoritmo</h1>
 <h1 escreva "OLÁ MUNDO!"</h1>
 <h1 fim_algoritmo</h1>
