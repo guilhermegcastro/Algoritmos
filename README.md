@@ -16,12 +16,13 @@
 
  =======================
  * Fique a vontade para usar-lo como suporte para a resolução de seus exercícios, caso você esteja fazendo Algoritmos. Contundo, há coisas importantes para ressaltar:
- * Esse repositório é para CORREÇÃO. Faça os exercícios por conta própria, utilizando as listas resolvidas apenas para auxílio.
+ * Esse repositório é para CORREÇÃO. Faça os exercícios por conta própria, utilizando as listas resolvidas apenas para auxílio. Lembre-se, você só aprende fazendo!
  * Não coleque a carroça na frente dos bois: Faça os exercícios NA ORDEM e sem saltar. Importante também praticar a lista de acordo com o conteúdo atual (nada de resolver a lista de estrutura condicional quando o professor só passou a lista de entrada e saída, por exemplo.)
  * Pode haver algumas alterações nos enunciados em relação a lista enviada pelo professor, porém a solução é a mesma.
  * Meus códigos não são uma "resposta definitiva". Há mais de uma maneira de solucionar os problemas de algoritmo.
+ * Meus códigos não tem comentários explicando os componentes (talvez eu adicione futuramente quando eu estiver entediado). Logo, se tiver algo que você não entendeu, jogue o código em alguma IA, que ela irá te explicar.
  * Pratique! Algoritmos não é uma matéria muito complicada, mas demanda esforço e dedicação.
- * Se precisar de ajuda, busque alguém para te auxiliar.
+ * Se precisar de ajuda com algoritmos, busque alguém para te auxiliar!
  
  =======================
  * Para abrir o documento, faça o download do mesmo e abra no word/google docs ou qualquer outro leitor de .docx
