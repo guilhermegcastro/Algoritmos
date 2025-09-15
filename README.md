@@ -2,13 +2,7 @@
 <p align="center">
   <img src="https://media.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif" width="400px" />
 </p>
-
-<h3 style="display: flex; align-items: center;">
-  < algoritmo/>
-</h3>
-<h1algoritmo</h1>
-<h1 escreva "OLÁ MUNDO!"</h1>
-<h1 fim_algoritmo</h1>
+  
 <p align="center">
   Olá! Boas-vindas a meu repositório de Exercícios resolvidos na pseudolinguagem Portugol Online!
  Nesse repositório, está todas as listas (exceto a última) de Algoritmos solucionados. Esse repositório tem como intenções servir como "Registro de Evolução Própria", como também ser um suporte para alunos que estão fazendo essa matéria.
