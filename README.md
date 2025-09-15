@@ -1,11 +1,22 @@
-\nalgoritmo 
-escreva "OLÁ MUNDO!"
-fim_algoritmo
 
- Olá! Boas-vindas a meu repositório de Exercícios resolvidos na pseudolinguagem Portugol Online!
+<p align="center">
+  <img src="https://imgs.search.brave.com/QyjzOpLlPVwPa_geysObxyAPGOaPZ9mmv2WCQ5_Qf0A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzcyLzA0/LzI2LzcyMDQyNmEz/ZDE4M2UzYmQ2YWVi/YmJhNWE0MGNmMzY4/LmpwZw" width="400px" />
+</p>
+
+<h1 align="center">algoritmo</h1>
+<h1 align="center">escreva "OLÁ MUNDO!"</h1>
+<h1 align="center">fim_algoritmo</h1>
+<p align="center">
+  Olá! Boas-vindas a meu repositório de Exercícios resolvidos na pseudolinguagem Portugol Online!
  Nesse repositório, está todas as listas (exceto a última) de Algoritmos solucionados. Esse repositório tem como intenções servir como "Registro de Evolução Própria", como também ser um suporte para alunos que estão fazendo essa matéria.
+</p>
+ 
+ 
+ <h3 style="display: flex; align-items: center;">
+  <img src="https://imgs.search.brave.com/PD5rFU3m4TI6e1UFn5c4ak_BKaOGysQDXDwQHkMn7kM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/OGpKR2NNazNERU1B/QUFBbS9nb3JpbGxh/ei0yZC53ZWJw" width="35" style="margin-right: 10px;" />
+   **INFORMAÇÕES IMPORTANTES:**
+</h3>
 
- INFORMAÇÕES IMPORTANTES:
  =======================
  * Esse repositório é para CORREÇÃO. Faça os exercícios por conta própria, utilizando as listas resolvidas apenas para auxílio.
  * Não coleque a carroça na frente dos bois: Faça os exercícios NA ORDEM e sem saltar. Importante também praticar a lista de acordo com o conteúdo atual (nada de resolver a lista de estrutura condicional quando o professor só passou a lista de entrada e saída, por exemplo.)
