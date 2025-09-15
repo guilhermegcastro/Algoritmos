@@ -13,7 +13,7 @@
  
  
  <h3 style="display: flex; align-items: center;">
-  <img src="https://media.tenor.com/1J-n2oBWMa8AAAAj/peepo-brazil.gif": width="10px;" />
+  <img src="https://media.tenor.com/1J-n2oBWMa8AAAAj/peepo-brazil.gif": width="5px;" />
    INFORMAÇÕES IMPORTANTES:
 </h3>
 
