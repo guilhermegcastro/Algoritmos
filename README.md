@@ -5,7 +5,7 @@
   
 <p align="center">
   Olá! Boas-vindas a meu repositório de Exercícios resolvidos na pseudolinguagem Portugol Online!
- Nesse repositório, está todas as listas (exceto a última) de Algoritmos solucionados. Esse repositório tem como intenções servir como "Registro de Evolução Própria", como também ser um suporte para alunos que estão fazendo essa matéria.
+ Nesse repositório, está todas as listas (exceto a última) de Algoritmos solucionados. Esse repositório tem como intenções servir como "Registro de Evolução Própria"
 </p>
  
  
@@ -15,7 +15,7 @@
 </h3>
 
  =======================
- 
+ * Fique a vontade para usar-lo como suporte para a resolução de seus exercícios, caso você esteja fazendo Algoritmos. Contundo, há coisas importantes para ressaltar:
  * Esse repositório é para CORREÇÃO. Faça os exercícios por conta própria, utilizando as listas resolvidas apenas para auxílio.
  * Não coleque a carroça na frente dos bois: Faça os exercícios NA ORDEM e sem saltar. Importante também praticar a lista de acordo com o conteúdo atual (nada de resolver a lista de estrutura condicional quando o professor só passou a lista de entrada e saída, por exemplo.)
  * Pode haver algumas alterações nos enunciados em relação a lista enviada pelo professor, porém a solução é a mesma.
