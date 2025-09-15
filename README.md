@@ -1,4 +1,4 @@
-algoritmo 
+\nalgoritmo 
 escreva "OLÁ MUNDO!"
 fim_algoritmo
 
