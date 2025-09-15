@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://imgs.search.brave.com/QyjzOpLlPVwPa_geysObxyAPGOaPZ9mmv2WCQ5_Qf0A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzcyLzA0/LzI2LzcyMDQyNmEz/ZDE4M2UzYmQ2YWVi/YmJhNWE0MGNmMzY4/LmpwZw" width="400px" />
+  <img src="https://media.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif" width="400px" />
 </p>
 
 <h1 align="center">algoritmo</h1>
@@ -13,17 +13,19 @@
  
  
  <h3 style="display: flex; align-items: center;">
-  <img src="https://imgs.search.brave.com/PD5rFU3m4TI6e1UFn5c4ak_BKaOGysQDXDwQHkMn7kM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/OGpKR2NNazNERU1B/QUFBbS9nb3JpbGxh/ei0yZC53ZWJw" width="35" style="margin-right: 10px;" />
-   **INFORMAÇÕES IMPORTANTES:**
+  <img src="https://tenor.com/pt-BR/view/peepo-brazil-gif-22561983: 10px;" />
+   INFORMAÇÕES IMPORTANTES:
 </h3>
 
  =======================
+ 
  * Esse repositório é para CORREÇÃO. Faça os exercícios por conta própria, utilizando as listas resolvidas apenas para auxílio.
  * Não coleque a carroça na frente dos bois: Faça os exercícios NA ORDEM e sem saltar. Importante também praticar a lista de acordo com o conteúdo atual (nada de resolver a lista de estrutura condicional quando o professor só passou a lista de entrada e saída, por exemplo.)
  * Pode haver algumas alterações nos enunciados em relação a lista enviada pelo professor, porém a solução é a mesma.
  * Meus códigos não são uma "resposta definitiva". Há mais de uma maneira de solucionar os problemas de algoritmo.
  * Pratique! Algoritmos não é uma matéria muito complicada, mas demanda esforço e dedicação.
  * Se precisar de ajuda, busque alguém para te auxiliar.
+ 
  =======================
  * Para abrir o documento, faça o download no mesmo e abra no word/google docs ou qualquer outro leitor de .docx
    
