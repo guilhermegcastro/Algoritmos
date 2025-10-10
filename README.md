@@ -11,8 +11,8 @@
  
  <h3 style="display: flex; align-items: center;">
   <img src="https://media.tenor.com/1J-n2oBWMa8AAAAj/peepo-brazil.gif" width="1px;" />
-
 </h3>
+
  =======================
  * Para abrir o documento, faça o download do mesmo e abra no word/google docs ou qualquer outro leitor de .docx, copie e cole o código da questão no portugol online.
    
