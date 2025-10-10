@@ -4,8 +4,7 @@
 </p>
   
 <p align="center">
-  Olá! Boas-vindas a meu repositório de Exercícios resolvidos na pseudolinguagem Portugol Online!
- Nesse repositório, está todas as listas (exceto a última) de Algoritmos propostos pelo professor Valkennedy Castro. Esse repositório tem como intenções servir como "Registro de Evolução Própria"
+  Repositório de Exercícios resolvidos na pseudolinguagem Portugol Online. Está  incluso todas as listas (exceto a última de estrutura de repetição) de Algoritmos propostos pelo professor Valkennedy Castro. Esse repositório tem como intenções servir como "Registro de Evolução Própria"
 </p>
  
  
