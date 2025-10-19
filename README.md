@@ -13,6 +13,6 @@
 </h3>
 
  =======================
- * Para abrir o documento, faça o download do mesmo e abra no word/google docs ou qualquer outro leitor de .docx, copie e cole o código da questão no portugol online.
+ * Estou postando os exercícios gradualmente, é trem demais
    
  
