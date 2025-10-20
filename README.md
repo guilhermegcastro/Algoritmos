@@ -27,7 +27,7 @@ O repositório está organizado com as seguintes listas de exercícios:
 * ✅ **Entrada e Saída** (Lista 1 & 2)
 * ✅ **Estrutura Condicional** (Lista 1 & 2)
 * ✅ **Estrutura de Repetição** (Lista 1, 2 & 3)
-* ⚠️ **Estrutura de Repetição** (Lista 4 - *Pendente*)
+* ⚠️ **Estrutura de Repetição** (Lista 4 - *Em falta*)
 
 <br>
 
