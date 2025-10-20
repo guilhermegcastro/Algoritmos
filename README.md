@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.politize.com.br/wp-content/uploads/2024/07/Criacao-de-destaques-3-1-1-1.png" width="800px" alt="Banner do Repositório">
+  <img src="https://i0.wp.com/brasap.com.br/wp-content/uploads/2020/05/Algoritmos.png?fit=512%2C288&ssl=1" width="800px" alt="Banner do Repositório">
 </p>
 
 <h1 align="center">
@@ -49,4 +49,4 @@ Cada arquivo `.por` no repositório contém um exercício resolvido.
 1.  Navegue até a pasta da lista desejada.
 2.  Abra o arquivo `.por` do exercício.
 3.  Copie o código.
-4.  Cole em um interpretador Portugol (como o [Portugol Online](https://portugolonline.com/)) para executar e testar.
+4.  Cole em um interpretador Portugol (como o [Portugol Online](https://vinyanalista.github.io/portugol/)) para executar e testar.
