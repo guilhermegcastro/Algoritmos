@@ -27,18 +27,15 @@ O repositório está organizado com as seguintes listas de exercícios:
 * ✅ **Entrada e Saída** (Lista 1 & 2)
 * ✅ **Estrutura Condicional** (Lista 1 & 2)
 * ✅ **Estrutura de Repetição** (Lista 1, 2 & 3)
-* ⚠️ **Estrutura de Repetição** (Lista 4 - *Em falta*)
+* ⚠️ **Estrutura de Repetição** (Lista 4 - *Pendente*)
 
 <br>
 
 ## 🛠️ Ferramentas e Contexto
 
-Todos os algoritmos foram desenvolvidos e testados utilizando a plataforma **Portugol Online** (baseada no Portugol Studio), como parte da grade curricular no Brasil.
+Todos os algoritmos foram desenvolvidos e testados utilizando a plataforma **Portugol Online** (baseada no Portugol Studio), como parte da grade curricular do curso de Bacharelado em Sistemas de Informação.
 
-<p align="center">
-  <img src="https://portugol-studio.com.br/assets/img/logo-symbol-blue.png" width="120px" alt="Logo Portugol Studio" style="margin-right: 20px;">
-  <img src="https://icons.iconarchive.com/icons/hopstarter/square-flags/256/Brazil-Flag-icon.png" width="120px" alt="Bandeira do Brasil">
-</p>
+<img src="https://icons.iconarchive.com/icons/hopstarter/square-flags/256/Brazil-Flag-icon.png" width="25" style="margin-right: 5px;" /> [Código Fonte do Interpretador Portugol Online](https://github.com/vinyanalista/portugol)
 
 <br>
 
@@ -49,4 +46,4 @@ Cada arquivo `.por` no repositório contém um exercício resolvido.
 1.  Navegue até a pasta da lista desejada.
 2.  Abra o arquivo `.por` do exercício.
 3.  Copie o código.
-4.  Cole em um interpretador Portugol (como o [Portugol Online](https://vinyanalista.github.io/portugol/)) para executar e testar.
+4.  Cole em um interpretador [Portugol Online](https://vinyanalista.github.io/portugol/)) para executar e testar.
