@@ -46,4 +46,4 @@ Cada arquivo `.por` no repositório contém um exercício resolvido.
 1.  Navegue até a pasta da lista desejada.
 2.  Abra o arquivo `.por` do exercício.
 3.  Copie o código.
-4.  Cole em um interpretador [Portugol Online](https://vinyanalista.github.io/portugol/)) para executar e testar.
+4.  Cole em um interpretador [Portugol Online](https://vinyanalista.github.io/portugol/) para executar e testar.
