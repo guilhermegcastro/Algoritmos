@@ -43,7 +43,7 @@ Todos os algoritmos foram desenvolvidos e testados utilizando a plataforma **Por
 
 Cada arquivo `.por` no repositório contém um exercício resolvido.
 
-1.  Navegue até a pasta da lista desejada.
-2.  Abra o arquivo `.por` do exercício.
-3.  Copie o código.
-4.  Cole em um interpretador [Portugol Online](https://vinyanalista.github.io/portugol/) para executar e testar.
+1. Entre em um interpretador [Portugol Online](https://vinyanalista.github.io/portugol/).
+2.  Navegue até a pasta da lista desejada.
+3.  Salve o arquivo `.por`.
+4.  Abra-o utilizando o interpretador para executar e testar.
