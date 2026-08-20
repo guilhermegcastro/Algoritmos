@@ -9,10 +9,6 @@
   <img src="https://i0.wp.com/brasap.com.br/wp-content/uploads/2020/05/Algoritmos.png?fit=512%2C288&ssl=1" width="800px" alt="Banner do Repositório">
 </p>
 
-<p align="center">
-  <img src="https://media.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif" width="400px" />
-</p>
-
 ---
 
 ## 🚀 Sobre o Projeto
@@ -21,6 +17,9 @@ Repositório dedicado aos exercícios da disciplina de Algoritmos, resolvidos na
 
 Este projeto documenta as listas propostas pelo professor Valkennedy Castro e serve como um **Registro de Evolução Pessoal** no aprendizado de lógica de programação.
 
+<p align="center">
+  <img src="https://media.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif" width="400px" />
+</p>
 ---
 
 ## 📂 Conteúdo do Repositório
