@@ -34,7 +34,7 @@ O repositório está organizado com as seguintes listas de exercícios:
 | **Entrada e Saída** (Lista 1 & 2) | ✅ Feito |
 | **Estrutura Condicional** (Lista 1 & 2) | ✅ Feito |
 | **Estrutura de Repetição** (Lista 1, 2 & 3) | ✅ Feito |
-| **Estrutura de Repetição** (Lista 4) | ⚠️ Não feita |
+| **Estrutura de Repetição** (Lista 4) | ⚠️ Não feita (e vai continuar assim) |
 
 ---
 
