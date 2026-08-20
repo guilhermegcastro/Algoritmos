@@ -20,6 +20,7 @@ Este projeto documenta as listas propostas pelo professor Valkennedy Castro e se
 <p align="center">
   <img src="https://media.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif" width="400px" />
 </p>
+
 ---
 
 ## 📂 Conteúdo do Repositório
