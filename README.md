@@ -5,6 +5,8 @@
 ![Status](https://img.shields.io/badge/Status-Completed-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
+> "The journey of a thousand miles begins with a single step." - Lao Tzu
+
 <p align="center">
   <img src="https://i0.wp.com/brasap.com.br/wp-content/uploads/2020/05/Algoritmos.png?fit=512%2C288&ssl=1" width="800px" alt="Banner do Repositório">
 </p>
